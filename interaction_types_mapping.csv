@@ -5,3 +5,4 @@ H		has host	http://purl.obolibrary.org/obo/RO_0002454
 EX		biotically interacts with	http://purl.obolibrary.org/obo/RO_0002437
 Ex		biotically interacts with	http://purl.obolibrary.org/obo/RO_0002437
 reared ex		biotically interacts with	http://purl.obolibrary.org/obo/RO_0002437
+Host		has host	http://purl.obolibrary.org/obo/RO_0002454
